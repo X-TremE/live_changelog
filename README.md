@@ -12,13 +12,13 @@ AOKP Change :
 
 Mods Change :
 - X-TremE Mod
-- * Initial release
-- * Transparent System Background
-- * Transparent Notification panel & SystemUI
-- * Transparent System Icon
+  * Initial release
+  * Transparent System Background
+  * Transparent Notification panel & SystemUI
+  * Transparent System Icon
 
 - Galaxy S4 Mod
-- * Add Galaxy S4 Boot Animation
+  * Add Galaxy S4 Boot Animation
 
 Apps Change :
 - Update LMT Launcher
@@ -30,7 +30,7 @@ Apps Change :
 
 Device Specific Change :
 - I9100
-- * Update CM|Dorimanx|KangBang|Siyah Kernel to latest version
+  * Update CM|Dorimanx|KangBang|Siyah Kernel to latest version
 
 - I777
-- * Add CM|Siyah Kernel as Based Kernel
+  * Add CM|Siyah Kernel as Based Kernel
