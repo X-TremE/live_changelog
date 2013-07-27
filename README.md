@@ -1,4 +1,4 @@
-live_changelog
+live_changelog for V.10
 ==============
 Main Change :
 - Update to latest AOKP/CM source
