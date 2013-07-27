@@ -6,6 +6,7 @@ Main Change :
 - Change Option to choose Mod without install X-TremE System for who want to switch to other Mod!
 - Change X-TremE Updater based from GooManager to Update Me for more useful
 - Add Hot Boot Mode in device option
+- Faster Aroma Installer's installation
 
 AOKP Change :
 - Improve codes
@@ -21,6 +22,10 @@ Mods Change :
   * Add Galaxy S4 Boot Animation
 
 Apps Change :
+- Update Apex Launcher
+- Update Nova Launcher
+- Update Trebuchet Launcher
+- Update Google Play Music
 - Update LMT Launcher
 - Update CM File Manager
 - Update Chronus
