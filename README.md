@@ -1,7 +1,8 @@
 live_changelog for V.10
 ==============
 Main Change :
-- Update to latest AOKP/CM source
+- Update to AOKP JB-MR1 Milestone 2 & latest CM source
+- Update Aroma Installer 2.70B6!
 - Update More APN
 - Change Option to choose Mod without install X-TremE System for who want to switch to other Mod!
 - Change X-TremE Updater based from GooManager to Update Me for more useful
