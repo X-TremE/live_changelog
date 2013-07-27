@@ -40,3 +40,4 @@ Device Specific Change :
 
 - I777
   * Add CM|Siyah Kernel as Based Kernel
+  * Fix sec_touchkey cause button bug
