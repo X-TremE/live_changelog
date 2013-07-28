@@ -1,0 +1,14 @@
+- Update to Android 4.2.2 ✔
+- Update AOSP sources [jb-mr1] ✔
+- Update Siyah & Dorimanx Kernel to latest version ✔
+- Fix bugs. See change Log [URL="http://gerrit.sudoservers.com/#/q/status:merged,n,z"]here[/URL] ✔
+- Fix FM Radio FC ✔
+- Fix wifi FC on CM Kernel ✔
+- Add GS3 Mod , Xperia Mod back ✔
+- Add Pie UI (Thanks [URL="http://forum.xda-developers.com/member.php?u=1864347"]noname81[/URL]) ✔
+- Add DPI Per App Changer Xposed (Thanks [URL="http://forum.xda-developers.com/member.php?u=4419114"]rovo89[/URL]) ✔
+- Add FM Radio icon theming (GS3 Mod) ✔
+- Add more xperia apps ✔
+- Fix SystemUI dropdown background (GS3 Mod) ✔
+- Temporary Remove Siyah Vsync because it not compatible with Android 4.2.2 ✔
+- Remove download music info for XP Mod (Buggy) ✔
