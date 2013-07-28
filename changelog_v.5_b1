@@ -1,0 +1,21 @@
+- Merge CM/AOKP ROM. 
+- Temporary REMOVE GS3 Mod & Xperia Mod because it not finish now :P
+- Add more X-TremE Control features
+- Add Widget Notification in Lockscreen (Many thanks to Roman Nurik)
+- Add CM File Manger
+- Add Trebuchet Launcher
+- Add apns-conf from CM
+- Add Samsung Service Mode
+- Re Add fade lockscreen
+- Update Apollo & Add DSP Manager
+- Update Nova Launcher
+- Update Google Play Music
+- Update Super SU binary
+- Fix Bluetooth bug
+- Fix Storage bug
+- Fix lockring bug
+- Fix X-TremE boot animtion got black
+- Fix FM Radio FC
+- Remove AOKP Launcher
+- Remove Lockscreen Dragon Lockring.
+- Remove some init.d that cause phone boot slow.
