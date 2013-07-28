@@ -8,7 +8,7 @@ Main Change :
 - Change Option to choose Mod without install X-TremE System for who want to switch to other Mod!
 - Change X-TremE Updater based from GooManager to Update Me for more useful
 - Add Hot Boot Mode in device option
-- Add Transparent Lockscreen option! (Aroma)
+- Add Transparent Lockscreen option back! (Aroma)
 - Faster Aroma Installer's installation
 
 AOKP Change :
