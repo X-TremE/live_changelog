@@ -4,6 +4,7 @@ Main Change :
 - Update to AOKP JB-MR1 Milestone 2 & latest CM source
 - Update Aroma Installer 2.70B6!
 - Update More APN
+- New X-TremE Boot Animation in Default Mod & X-TremE Mod!
 - Change Option to choose Mod without install X-TremE System for who want to switch to other Mod!
 - Change X-TremE Updater based from GooManager to Update Me for more useful
 - Add Hot Boot Mode in device option
