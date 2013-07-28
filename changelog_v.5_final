@@ -1,0 +1,53 @@
+- Stable ✔
+- Update AOKP source ✔
+- Update Gapps to latest version ✔
+- Update Dorimanx Kernel to latest version ✔
+- Fix memory leak bug again! (Thanks AOKP) ✔
+- Fix X-TremE is upgrading... popup always appear when reboot phone ✔
+- Upgrade Xperia Mod to Xperia Z Mod :DDD ✔
+- Merge Galaxy S3 Mod with Galaxy S4 Mod (Contact|Ringtone (Over the horizon upgrade :D)|Wallpaper|Icon|Accuweather port (If it possible)) ✔
+*If you want Galaxy S3 Mod back, I will post it on Mod Store :))
+- Merge all X-TremE Option into X-TremE Setting menu in Settings (Cleaning setting layout ;)) ✔
+- Fix popup got transparent (GS3 Mod) ✔
+- Fix notification panel theme missing (GS3 Mod) ✔
+- Fix Taskmanager Label Color (In app task manager GS3 Mod) ✔
+- Fix Trebuchet missing (Aroma) ✔
+- Rebuild updater-script for little faster when install ROM. :D
+- Add Siyah Kernel back (Thanks Rush85,kpavl01 & Hannibal226 that update new version) ✔
+- Add Navigation Ring & Traditional Toggle Features (AOKP) ✔
+- Add Lockscreen animation chooser (Aroma) ✘ (If somebody want CRT lockscreen back I will post it on Mod Store ;))
+- Add Call setting in setting menu ✔
+- Add Adobe flash player ✔
+- Add AOSP Mod [NEW] ✔
+- Add Multiuser from Nexus 7 ✔
+- Add Chronus (from CM) ✔
+- Add Xperia Z Lockscreen port!! (Xperia Mod) ✘ NOT INCLUDE. HAVE A BUG ON SMALI CODE. GIVE ME A TIME TO FIND FIX ;)
+- Add S Suggest , Gamehub & Photo Editor from Samsung (GS3 Mod) ✔
+- Modified more DashClock widget ✔
+- Update Samsung Apps & Samsung Push Service (GS3 Mod) ✔
+- THEMING XPERIA MOD (SystemUI) ✔ Theme more on the next version :)
+- Add Xperia Z Car Launcher (Thanks to ThilinaC for his work) ✔
+
+Under this line, thanks a lot to Rizal Lovins for his great Xperia Z Mod. :DD
+- New Xperia Z Keyboard ✔
+- New Walkman ✔
+- New Soundenhancement ✔
+- Awesome Audio Quality ✔
+- New All Music Extension ✔
+- DLNA/Throw ✔
+- Edit Music Info/Download Music Info still does not work on JB ROM (Remove it by me :D) ✔
+- Fixed Playlist ✔
+- Fixed Favourite Song ✔
+- Fixed issue for some device ✔
+- New Visualizer ✔
+- Removed lib does not function & conflict ✔
+- All System framework from Xperia Z deodexed (For compatibility other Apps from SONY Xperia) ✔
+- All working (maybe no perhaps no more bugs) ✔
+- New Album from Xperia Z ✔
+- BE 2 from Xperia Z ✔
+- New Movies from Xperia Z ✔
+- New Photo Widget ✔
+- Slideshow in Album ✔
+- Fixed FC when share via Bluetooth in Album ✔
+- Social Network in Album ✔
+- Removed lib in apk ✔
