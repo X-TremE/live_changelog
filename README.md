@@ -10,6 +10,7 @@ Main Change :
 - Add Hot Boot Mode in device option
 - Add Transparent Lockscreen option back! (Aroma) ✔
 - Faster Aroma Installer's installation ✔
+- Fix X-TremE Wallpapers wallpaper thumbnail bug
 
 AOKP Change :
 - Improve codes ✔
