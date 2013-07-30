@@ -32,7 +32,7 @@ Apps Change :
 - Update LMT Launcher ✔
 - Update CM File Manager ✔
 - Update Chronus ✔
-- Update Camera Photosphere to Android 4.3 version (Thanks alkspo for base camera)
+- Update Camera Photosphere to Android 4.3 version (Thanks alkspo for base camera) ✔
 
 Device Specific Change :
 - I9100
