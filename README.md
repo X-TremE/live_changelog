@@ -41,3 +41,7 @@ Device Specific Change :
 - I777
   * Add CM|Siyah Kernel as Based Kernel ✔
   * Fix sec_touchkey cause button bug ✔
+
+- LT26i
+  * Change based ROM to AOKP
+  * CM Kernel as Based Kernel
