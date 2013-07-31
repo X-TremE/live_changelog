@@ -6,6 +6,7 @@ Main Change :
 - Update More APN ✔
 - New X-TremE Boot Animation in Default Mod & X-TremE Mod!
 - Change Option to choose Mod without install X-TremE System for who want to switch to other Mod! ✔
+- Add Skip Choosing Kernel in Aroma ✔
 - Change X-TremE Updater based from GooManager to Update Me for more useful ✔
 - Add Hot Boot Mode in device option
 - Add Transparent Lockscreen option back! (Aroma) ✔
