@@ -1,4 +1,10 @@
 live_changelog for V.10
+
+Bugs (First test)
+- Bootloop (-*-)
+- Aroma Screen overlap the phone screen
+- The text in Aroma is lost
+
 ==============
 Main Change :
 - Update to AOKP JB-MR1 Milestone 2 & latest CM source ✔
