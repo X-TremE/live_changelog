@@ -1,10 +1,10 @@
 live_changelog for V.10
 
-Bugs (First test)
+Bugs
 - Bootloop (Fixed)
 - Aroma Screen overlap the phone screen (Fixed)
 - The text in Aroma is lost (Fixed)
-- SystemUI Force CClose
+- SystemUI Force Close
 - Update me Force Close (Fixed)
 - Logo missing (Aroma)
 
