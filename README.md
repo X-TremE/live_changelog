@@ -1,6 +1,6 @@
 live_changelog for V.10
 
-Bugs (V.10 beta 1-5 testing)
+Bugs (V.10 beta 1-5 private testing)
 - Bootloop (Fixed)
 - Aroma Screen overlap the phone screen (Fixed)
 - The text in Aroma is lost (Fixed)
