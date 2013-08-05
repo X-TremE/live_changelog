@@ -4,7 +4,7 @@ Bugs (V.10 beta 1,2 testing)
 - Bootloop (Fixed)
 - Aroma Screen overlap the phone screen (Fixed)
 - The text in Aroma is lost (Fixed)
-- SystemUI Force Close (Fixing)
+- SystemUI Force Close (Fixing...)
 - Update me Force Close (Fixed)
 - Logo missing on Aroma splash (Still bug)
 
