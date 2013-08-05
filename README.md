@@ -6,7 +6,7 @@ Bugs (V.10 beta 1,2 testing)
 - The text in Aroma is lost (Fixed)
 - SystemUI Force Close
 - Update me Force Close (Fixed)
-- Logo missing on Aroma splash (Fixing)
+- Logo missing on Aroma splash (Still bug)
 
 ==============
 Main Change :
