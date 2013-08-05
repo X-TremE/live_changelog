@@ -53,5 +53,4 @@ Device Specific Change :
   * Fix sec_touchkey cause button bug ✔
 
 - LT26i
-  * Change based ROM to AOKP
-  * CM Kernel as Based Kernel
+  * Update Sony based ROM
