@@ -1,7 +1,7 @@
 live_changelog for V.10
 
 Bugs (V.10 beta 1-9 private testing)
-- Galaxy S3 mdmo bootloop (Fixing...)
+- Galaxy S4 Mod bootloop (Fixing...)
 - Bootloop (Fixed)
 - Aroma Screen overlap the phone screen (Fixed)
 - The text in Aroma is lost (Fixed)
