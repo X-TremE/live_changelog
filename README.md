@@ -31,7 +31,6 @@ Mods Change :
   * Initial release
   * Transparent System Background
   * Transparent Notification panel & SystemUI
-  * Transparent System Icon
 
 - Galaxy S4 Mod
   * Add Galaxy S4 Boot Animation ✔
