@@ -29,9 +29,9 @@ AOKP Change :
 
 Mods Change :
 - X-TremE Mod
-  * Initial release
-  * Transparent System Background
-  * Transparent Notification panel & SystemUI
+  * Initial release ✔
+  * Transparent System Background ✔
+  * Transparent Notification panel & SystemUI ✔
 
 - Galaxy S4 Mod
   * Add Galaxy S4 Boot Animation ✔
