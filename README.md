@@ -20,6 +20,7 @@ Main Change :
 - Change X-TremE Updater based from GooManager to Update Me for more useful ✔
 - Add Hot Boot Mode in device option
 - Add Transparent Lockscreen option back! (Aroma) ✔
+   * If you use Tranpsarent, Lockscreen option and Navigation Ring option will get Force Close because those features don't support transparent.
 - Faster Aroma Installer's installation ✔
 - Fix X-TremE Wallpapers wallpaper thumbnail bug
 
