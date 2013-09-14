@@ -1,5 +1,9 @@
 live_changelog for V.10
 
+
+--NOW REMAKING ROM WITH CLEAN|STABLE :) IT WILL COMING BACK TO X-TREME ON XDA--
+
+
 Bugs (V.10 beta 1-9 private testing)
 - Galaxy S4 Mod bootloop (Fixing...)
 - Bootloop (Fixed)
@@ -12,7 +16,7 @@ Bugs (V.10 beta 1-9 private testing)
 ==============
 Main Change :
 - Update to AOKP JB-MR1 Milestone 2 & latest CM source ✔
-- Update Aroma Installer 2.70B6! ✘ Major bug
+- Update Aroma Installer 2.70RC2! ? ? ?
 - Update More APN ✔
 - New X-TremE Boot Animation in Default Mod & X-TremE Mod!
 - Change Option to choose Mod without install X-TremE System for who want to switch to other Mod! ✔
