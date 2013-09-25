@@ -1,18 +1,5 @@
 live_changelog for V.10
 
-
---NOW REMAKING ROM WITH CLEAN|STABLE :) IT WILL COMING BACK TO X-TREME ON XDA--
-
-
-Bugs (V.10 beta 1-9 private testing)
-- Galaxy S4 Mod bootloop (Fixing...)
-- Bootloop (Fixed)
-- Aroma Screen overlap the phone screen (Fixed)
-- The text in Aroma is lost (Fixed)
-- SystemUI Force Close (Fixed)
-- Update me Force Close (Fixed)
-- Logo missing on Aroma splash (Fixed)
-
 ==============
 Main Change :
 - Update to latest AOKP JB-MR1 source & latest CM10.1 source ✔
@@ -40,11 +27,11 @@ Mods Change :
   * Add Galaxy S4 Boot Animation ✔
 
 - Xperia Z Mod (Many thanks to my great friend, Rizal Lovins :D)
-  * New Xperia Z1 Walkman!
-  * New Xperia Z1 Album
-  * New Xperia Z1 Video
-  * And other Media features from Xperia Z1
-  * Sociallife, Social App from 2013 Xperia Devices!
+  * New Xperia Z1 Walkman! ✔
+  * New Xperia Z1 Album ✔
+  * New Xperia Z1 Video ✔
+  * And other Media features from Xperia Z1 ✔
+  * Sociallife, Social App from 2013 Xperia Devices! ✔
 
 Apps Change :
 - Update Apex Launcher ✔
