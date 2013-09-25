@@ -1,9 +1,11 @@
 live_changelog for V.10
 
+Bugs now :
+- SystemUI FC
+
 ==============
 Main Change :
 - Update to latest AOKP JB-MR1 source & latest CM10.1 source ✔
-- Update Aroma Installer 2.70RC2 X Not Support on I9100 , I777 , LT26i
 - Update More APN ✔
 - Sun Beam is coming! (Android 4.3 LWP) ✔
 - Multiuser is come back! ✔
@@ -11,8 +13,7 @@ Main Change :
 - Change Option to choose Mod without install X-TremE System for who want to switch to other Mod! Update 25/9 ~~Have some bugs, need to fix
 - Add Skip Choosing Kernel in Aroma ✔
 - Change X-TremE Updater based from GooManager to Update Me for more useful ✔
-- Add Transparent Lockscreen option back! (Aroma) Update 25/9 ~~Fixing Lockscreen option & Nav Ring bugs..
-   * If you use Tranpsarent, Lockscreen option and Navigation Ring option will get Force Close because those features don't support transparent.
+- Add Transparent Lockscreen option back! (Aroma) ✔
 - Faster Aroma Installer's installation ✔
 - Fix X-TremE Wallpapers wallpaper thumbnail bug
 
