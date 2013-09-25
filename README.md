@@ -41,7 +41,9 @@ Mods Change :
 
 - Xperia Z Mod (Many thanks to my great friend, Rizal Lovins :D)
   * New Xperia Z1 Walkman!
-  * 
+  * New Xperia Z1 Album
+  * New Xperia Z1 Video
+  * And other Media features from Xperia Z1
   * Sociallife, Social App from 2013 Xperia Devices!
 
 Apps Change :
