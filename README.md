@@ -3,7 +3,7 @@ live_changelog for V.10
 ==============
 Main Change :
 - Update to latest AOKP JB-MR1 source & latest CM10.1 source ✔
-- Update Aroma Installer 2.70RC2
+- Update Aroma Installer 2.70RC2 X Not Support on I9100 , I777 , LT26i
 - Update More APN ✔
 - Sun Beam is coming! (Android 4.3 LWP) ✔
 - Multiuser is come back! ✔
