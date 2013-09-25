@@ -1,7 +1,7 @@
 live_changelog for V.10
 
 Bugs now :
-- SystemUI FC
+- SystemUI FC on Default Mod
 
 ==============
 Main Change :
