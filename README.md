@@ -5,6 +5,8 @@ Main Change :
 - Update to latest AOKP JB-MR1 source & latest CM10.1 source ✔
 - Update Aroma Installer 2.70RC2
 - Update More APN ✔
+- Sun Beam is coming! (Android 4.3 LWP) ✔
+- Multiuser is come back! ✔
 - New X-TremE Boot Animation in Default Mod & X-TremE Mod! ✔
 - Change Option to choose Mod without install X-TremE System for who want to switch to other Mod! Update 25/9 ~~Have some bugs, need to fix
 - Add Skip Choosing Kernel in Aroma ✔
