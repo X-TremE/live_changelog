@@ -15,30 +15,34 @@ Bugs (V.10 beta 1-9 private testing)
 
 ==============
 Main Change :
-- Update to AOKP JB-MR1 Milestone 2 & latest CM source ✔
-- Update Aroma Installer 2.70RC2! ? ? ?
+- Update to latest AOKP JB-MR1 source & latest CM10.1 source ✔
+- Update Aroma Installer 2.70RC2
 - Update More APN ✔
 - New X-TremE Boot Animation in Default Mod & X-TremE Mod!
-- Change Option to choose Mod without install X-TremE System for who want to switch to other Mod! ✔
+- Change Option to choose Mod without install X-TremE System for who want to switch to other Mod! Update 25/9 ~~Have some bugs, need to fix
 - Add Skip Choosing Kernel in Aroma ✔
 - Change X-TremE Updater based from GooManager to Update Me for more useful ✔
-- Add Hot Boot Mode in device option
-- Add Transparent Lockscreen option back! (Aroma) ✔
+- Add Transparent Lockscreen option back! (Aroma) Update 25/9 ~~Fixing Lockscreen option & Nav Ring bugs..
    * If you use Tranpsarent, Lockscreen option and Navigation Ring option will get Force Close because those features don't support transparent.
 - Faster Aroma Installer's installation ✔
 - Fix X-TremE Wallpapers wallpaper thumbnail bug
 
-AOKP Change :
+AOKP n CM Change :
 - Improve codes ✔
 
 Mods Change :
-- X-TremE Mod
+- X-TremE Mod Update 25/9 ~~Fixing SystemUI force close
   * Initial release ✔
   * Transparent System Background ✔
   * Transparent Notification panel & SystemUI ✔
 
 - Galaxy S4 Mod
   * Add Galaxy S4 Boot Animation ✔
+
+- Xperia Z Mod (Many thanks to my great friend, Rizal Lovins :D)
+  * New Xperia Z1 Walkman!
+  * 
+  * Sociallife, Social App from 2013 Xperia Devices!
 
 Apps Change :
 - Update Apex Launcher ✔
