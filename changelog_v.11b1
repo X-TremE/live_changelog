@@ -1,4 +1,40 @@
-Main Change Log :
-- Add almost X-TremE Project's features back (Except AOKP feature)
-- Fix all bugs from V10 beta
-- ART fix
+Eating KitKat Base ROM
+Update AOKP ROM Control to latest
+Update X-TREME Project to latest
+Update CM Kernel to latest
+Update Dorimanx Kernel to latest
+Update Google App to latest
+
+Remove system/app
+mGerrit
+LatinIME
+
+Move system/priv-app
+X-TREME Control (Move back)
+
+Add Android L Keyboard
+Remove Dash Clock App set
+Update ThemeChooser.apk
+X-TREME Mod (Galaxy S5 Mod and Xperia Z2 Mod will add it in full version. Now set X-TREME Mod as default mod)
+Remove AOSP Mod and Default Mod (X-TREME Mod as default)
+
+
+Todo
+
+Renew and cleaning updater-script
+Renew and cleaning Aroma Installer script
+New Theme in Aroma Installer (When choose X-TREME Mod,GS5 Mod and XZ2 Mod will change theme in aroma too)
+Tweak some more
+New Android L Boot Animation (Choose in Aroma:L or X-TREME)
+
+Update APN List
+Update Apollo.apk
+Update LMT.apk
+Update CMFileManager.apk
+Update Chronus.apk
+Update XposedInstaller.apk
+Update XposedAppSettings.apk
+Update X-TREMEUpdater.apk
+Update X-TREMEControl.apk
+Update X-TREMEWallpaper.apk
+Update Wallpaper in X-TREME Wallpaper
