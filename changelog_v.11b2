@@ -1,5 +1,5 @@
 Main Change :
-Fix set permission bug when Skip Installing X-TREME System
+Fully Fix bug when Skip Installing X-TREME System (set permission,symlink,GApps bugs)
 Fix Dorimanx Kernel bootloop
 Fix multiuser don't show in portrait lockscreen
 Fix X-TREME Wallpaper don't contacting server to display wallpapers
