@@ -4,7 +4,6 @@ Fix Dorimanx Kernel bootloop
 Fix X-TREME Wallpapers don't contacting server to display wallpapers
 Fix X-TREME Updater check version code missing cause it said there is no update
 Change Wallpapers's server that faster retreiving wallpapers
-Remove SuperSU when install Dorimanx Kernel
 Update Dorimanx Kernel V10.44v006-cybnt
 Update Default Mod to white KitKat
 New Theme in Aroma Installer (When choose X-TREME Mod,GS5 Mod and XZ2 Mod will change theme in aroma too)
