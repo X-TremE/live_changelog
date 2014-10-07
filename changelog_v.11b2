@@ -1,7 +1,7 @@
 Main Change :
 Fully Fix bug when Skip Installing X-TREME System (set permission,symlink,GApps bugs)
 Fix Dorimanx Kernel bootloop
-Fix X-TREME Wallpaper don't contacting server to display wallpapers
+Fix X-TREME Wallpapers don't contacting server to display wallpapers
 Fix X-TREME Updater check version code missing cause it said there is no update
 Update Dorimanx Kernel V10.44v006-cybnt
 Update Default Mod to white KitKat
